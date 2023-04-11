@@ -1,0 +1,16 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Mubariz Rai",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	},
+	"scripts": {
+		"start": "node server.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
